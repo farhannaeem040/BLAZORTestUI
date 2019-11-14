@@ -1,0 +1,42 @@
+﻿Log File Creation	0
+	Info	14:27:35.238	->JsonLogwriter..ctor	ConceptsClient_2019-11-14.txt
+Main	1
+	Info	14:27:35.271	Program.Main	Starting app	
+	Error	14:27:35.467	Program.Main	Could not find file 'C:\Users\fn250036\source\repos\ConceptsClient\ConceptsClient\ConceptsClient.json'.	   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at ConceptsClient.Program.Main(String[] args) in C:\Users\fn250036\source\repos\ConceptsClient\ConceptsClient\Program.cs:line 38
+Main	1
+	Info	14:28:07.245	Program.Main	Starting app	
+	Error	14:28:07.391	Program.Main	Could not find file 'C:\Users\fn250036\source\repos\ConceptsClient\ConceptsClient\ConceptsClient.json'.	   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at ConceptsClient.Program.Main(String[] args) in C:\Users\fn250036\source\repos\ConceptsClient\ConceptsClient\Program.cs:line 38
+Main	1
+	Info	14:28:20.243	Program.Main	Starting app	
+	Error	14:28:20.396	Program.Main	Could not find file 'C:\Users\fn250036\source\repos\ConceptsClient\ConceptsClient\ConceptsClient.json'.	   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at ConceptsClient.Program.Main(String[] args) in C:\Users\fn250036\source\repos\ConceptsClient\ConceptsClient\Program.cs:line 38
+Main	1
+	Info	14:28:56.884	Program.Main	Starting app	
+	Error	14:28:57.046	Program.Main	Could not find file 'C:\Users\fn250036\source\repos\ConceptsClient\ConceptsClient\ConceptsClient.json'.	   at System.IO.FileStream.ValidateFileHandle(SafeFileHandle fileHandle)
+   at System.IO.FileStream.CreateFileOpenHandle(FileMode mode, FileShare share, FileOptions options)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamReader.ValidateArgsAndOpenPath(String path, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks)
+   at System.IO.File.InternalReadAllText(String path, Encoding encoding)
+   at System.IO.File.ReadAllText(String path)
+   at ConceptsClient.Program.Main(String[] args) in C:\Users\fn250036\source\repos\ConceptsClient\ConceptsClient\Program.cs:line 38
